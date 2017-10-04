@@ -1,6 +1,6 @@
-#A Simple To-Do
+# A Simple To-Do
 
-###It can:
+### It can:
 
 - Read from a file
 - Write to a file 
